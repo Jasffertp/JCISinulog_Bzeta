@@ -1,0 +1,10 @@
+TEAM NAME: 
+	- BZeta
+TEAM LEADER:
+	- Padigdig, Jasffer (WEBPROG SS191/SF191/NS191)
+MEMBERS:				SECTION:
+	- Angel, Dave Vincent 		(APPLDEV EMC191)
+	- Castaño, Jet 			(ITELEC2 BMMA182)
+	- Evangelista, Abigail Joy 	(ITELEC2 BMMA182)
+	- Gimena, Marianne Kirstine 	(WEBPROG MI192)
+	- Heramia, Amiel Ivan 		(APPLDEV EMC191)
