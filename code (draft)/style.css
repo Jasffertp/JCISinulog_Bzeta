@@ -76,23 +76,25 @@ div.about-section {
 
 /* FOOTER */
 
-footer {
-	background-color: #00AEAE;
-	text-align: center;
-	padding-bottom: 100px;
-	margin: auto;
+.au-footer {
+	padding: 5px;
+	margin: 0;
+	background-color:#008080;
 }
 
-.column {
-	float: left;
-	width: 25%;
-	padding-top: 50px;
-}
-
-.row:after {
+.au-footer-row:after {
 	content: "";
 	display: table;
 	clear: both;
+	border: 1px hidden black;
+}
+
+.au-footer-column {
+	float: right;
+	border: 1px hidden red;
+	padding-top: 15px;
+	padding-right: 20px;
+	padding-bottom: 15px;
 }
 
 @media (max-width: 880px) {
