@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&family=Source+Sans+Pro:wght@900&display=swap');
 
 html, body, p {
     margin: 0;
@@ -11,23 +11,16 @@ body::-webkit-scrollbar {
 }
 
 /* ABOUT SECTION */
-.roboto {
-	font-family: 'Roboto', sans-serif;
-}
-
-.archivo {
-	font-family: 'Archivo Black', sans-serif;
-}
 
 .title {
-	font-family: 'Archivo Black', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
 	padding-left: 60px;
 	margin: 0;
 	border:1px hidden black;
 }
 
 div.about-section {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Nunito Sans', sans-serif;
 	text-indent: 50px;
 	text-align: justify;
 	width: 62%;
@@ -47,7 +40,7 @@ div.about-section {
 	text-indent: 50px;
 	text-align: justify;
 	border:1px hidden black;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Nunito Sans', sans-serif;
 }
 
 .au-row:after {
