@@ -1,0 +1,53 @@
+<html>
+<head>
+	<title>Participate - JCI Sinulog</title>
+	<link rel="shortcut icon" type="image/x-icon" href="images/logo-og2.png" />
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+	<?php
+		include 'header.php';
+	?>
+	<div class="description" style="float-left;padding-bottom:60px;background-color:#5e9b84;color:#ffffff;">
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue interdum justo sed pellentesque. Nam condimentum libero facilisis laoreet mattis. Praesent consectetur enim ac mauris gravida porta. Etiam faucibus pellentesque efficitur. Etiam quis magna non risus fringilla blandit id in sem. Duis placerat, diam eget lacinia porttitor, magna turpis dignissim dolor, sit amet egestas quam arcu id mauris. Aenean rutrum purus mi, quis sodales risus pretium semper. Donec porta porta eros sed maximus.
+	</div>
+	<div> <!-- Content/Events -->
+		<div class="row" style="margin:0 5%;background-color:#f5f5f5;color:#ffffff;">
+			<div class="column">
+				<div class="content">
+					<div class="title" style="font-size:20px">
+						<p>Title</p>
+						<p>Subtitle</p>
+					</div>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue interdum justo sed pellentesque. Nam condimentum libero facilisis laoreet mattis.</p>
+				</div>
+			</div>
+			<div class="column">
+				<div class="content">
+					<div class="title" style="font-size:20px">
+						<p>Title</p>
+						<p>Subtitle</p>
+					</div>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue interdum justo sed pellentesque. Nam condimentum libero facilisis laoreet mattis.</p>
+				</div>
+			</div>
+			<div class="column">
+				<div class="content">
+					<div class="title" style="font-size:20px">
+						<p>Title</p>
+						<p>Subtitle</p>
+					</div>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue interdum justo sed pellentesque. Nam condimentum libero facilisis laoreet mattis.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="empty-space"></div>
+	<?php
+		include 'footer.php';
+	?>
+</body>
+</html>
