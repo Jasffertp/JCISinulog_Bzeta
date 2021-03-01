@@ -11,37 +11,75 @@
 	<?php
 		include 'header.php';
 	?>
-	<div class="description" style="float-left;padding-bottom:60px;background-color:#5e9b84;color:#ffffff;">
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue interdum justo sed pellentesque. Nam condimentum libero facilisis laoreet mattis. Praesent consectetur enim ac mauris gravida porta. Etiam faucibus pellentesque efficitur. Etiam quis magna non risus fringilla blandit id in sem. Duis placerat, diam eget lacinia porttitor, magna turpis dignissim dolor, sit amet egestas quam arcu id mauris. Aenean rutrum purus mi, quis sodales risus pretium semper. Donec porta porta eros sed maximus.
+	<div class="main-title" style="float-left;padding-bottom:60px;background-color:#ffffff;color:#5e9b84;">
+		<p>Participate in the following events:
 	</div>
 	<div> <!-- Content/Events -->
-		<div class="row" style="margin:0 5%;background-color:#f5f5f5;color:#ffffff;">
-			<div class="column">
-				<div class="content">
-					<div class="title" style="font-size:20px">
-						<p>Title</p>
-						<p>Subtitle</p>
+		<div class="row">
+			<div class="content">
+				<img class="img" src="images/logo.png">
+				<div>
+					<div class="title">
+						<p>Event Name</p>
+						<p>Type of Event</p>
 					</div>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue interdum justo sed pellentesque. Nam condimentum libero facilisis laoreet mattis.</p>
+					<div class="text-col1">
+						<p>Organization: </p>
+						<p>Director: </p>
+						<p>Location: </p>
+						<a class="button" href="#blank">Participate</a>
+					</div>
+					<div class="text-col2">
+						<p>Start Date: </p>
+						<p>End Date: </p>
+						<p>Start Time: </p>
+						<p>End Time: </p>
+					</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="content">
+				<img class="img" src="images/logo.png">
+				<div>
+					<div class="title">
+						<p>Event Name</p>
+						<p>Type of Event</p>
+					</div>
+					<div class="text-col1">
+						<p>Organization: </p>
+						<p>Director: </p>
+						<p>Location: </p>
+						<a class="button" href="#blank">Participate</a>
+					</div>
+					<div class="text-col2">
+						<p>Start Date: </p>
+						<p>End Date: </p>
+						<p>Start Time: </p>
+						<p>End Time: </p>
+					</div>
 				</div>
 			</div>
-			<div class="column">
-				<div class="content">
-					<div class="title" style="font-size:20px">
-						<p>Title</p>
-						<p>Subtitle</p>
+		</div>
+		<div class="row">
+			<div class="content">
+				<img class="img" src="images/logo.png">
+				<div>
+					<div class="title">
+						<p>Event Name</p>
+						<p>Type of Event</p>
 					</div>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue interdum justo sed pellentesque. Nam condimentum libero facilisis laoreet mattis.</p>
-				</div>
-			</div>
-			<div class="column">
-				<div class="content">
-					<div class="title" style="font-size:20px">
-						<p>Title</p>
-						<p>Subtitle</p>
+					<div class="text-col1">
+						<p>Organization: </p>
+						<p>Director: </p>
+						<p>Location: </p>
+						<a class="button" href="#blank">Participate</a>
 					</div>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue interdum justo sed pellentesque. Nam condimentum libero facilisis laoreet mattis.</p>
-				</div>
+					<div class="text-col2">
+						<p>Start Date: </p>
+						<p>End Date: </p>
+						<p>Start Time: </p>
+						<p>End Time: </p>
+					</div>
 			</div>
 		</div>
 	</div>
