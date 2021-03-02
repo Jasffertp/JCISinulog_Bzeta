@@ -687,3 +687,85 @@
 				-moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
 				transition: all 0.5s ease 0s;
 			}
+
+/*****************DRR SECTION OF THE WEBSITE*****************/
+
+
+	.caption-drr{
+		font-family: source-sans;
+		font-size: 10vh;
+	    position: absolute;
+	    top: 50%;
+	    margin-top: -25px;
+	    margin-left: 3vw;
+	    color: #fff;
+	}
+
+	.title-container-drr{
+		position: relative;
+		height: 45vh;
+		background-color: #5e9b84;
+		margin-bottom: 10vh;
+	}
+
+	#info-drr{
+		width: 80vw;
+		margin: auto;
+		font-family: Nunito;
+		font-size: 5vh;
+		margin-bottom: 3vh;
+		margin-top: 3vh;
+	}
+
+	#short-desc-drr{
+		font-family: Nunito;
+		width: 80vw;
+		margin: auto;
+		font-size: 2vh;
+	}
+
+	.content-container{
+		margin: auto;
+		/*background-color: blue;*/
+		width: 80vw;
+	}
+
+	.situation-drr{
+		font-family: source-sans;
+		font-size: 5vh;
+		margin-left: 2vw;
+		position: relative;
+	}
+
+	#heat-stroke-hide-drr, #boil-hide-drr, #sb-hide-drr, #ph-hide-drr, #ht1-drr, #ht2-drr, #ht3-drr, #hp1-drr, #hp2-drr{
+		/*background-color: yellow;*/
+		width: 90%;
+		margin: auto;
+		margin-bottom: 1vh;
+		margin-top: 1vh;
+		transition: all .5s ease 0s;
+	}
+
+	#desc-drr, #signs-drr, #sol-drr{
+		font-family: 'avenir';
+		font-size: 2vh;
+		margin-top: 2vh;
+	}
+
+	#signs-drr ul, #sol-drr ul{
+		margin-left: 3vw;
+		margin-top: 2vh;
+	}
+
+	#signs-drr li, #sol-drr li{
+		margin-top: 2vh;
+	}
+
+	.fa-angle-down{
+		margin-right: 3vw;
+		position: absolute;
+		right: 0;
+		top: 50%;
+		margin-top: -25px;
+	}
+
