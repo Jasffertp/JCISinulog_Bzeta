@@ -12,6 +12,7 @@
 	height: 90px;
 	display: block;
 	background-color: #5e9b84;
+	position: fixed;
 }
 
 .inner-header{
