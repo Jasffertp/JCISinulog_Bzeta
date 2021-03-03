@@ -7,59 +7,19 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&family=Source+Sans+Pro:wght@900&display=swap');
 
-.header{
-	width: 100%;
-	height: 90px;
-	display: block;
-	background-color: #5e9b84;
-}
-
-.inner-header{
-	width: 1200px;
-	height: 100%;
-	display: block;
-	margin: 0 auto;
-}
-
-.logo-container{
-	height: 100%;
-	display: table;
-	float: left;
-}
-
-.navigation{
-	float: left;
-	height: 100%;
-	margin-left: 30px;
-}
-
-.navigation a{
-	height: 100%;
-	display: table;
-	float: left;
-	padding: 0px 25px; 
-}
-
-.navigation a li{
-	display: table-cell;
-	vertical-align: middle;
-	color: white;
-	font-family: 'Source Sans Pro', sans-serif;
-}
-
 /* Project Area */
 
 .project-container{
+	padding-top: 150px;
 	width: 100%;
-	height: 935px;
-	margin-top: 60px;
-	margin-bottom: 100px;
+	height: 100%;
 }
 
 .project-container-inner{
-	height: 100%;
+	height: 1000px;
 	width: 1110px;
-	margin: 0 auto;
+	margin-left: auto;
+	margin-right: auto;
 	display: table;
 }
 
@@ -71,6 +31,15 @@
 	float: left;
 	margin-left: 15px;
 	margin-top: 15px;
+	-webkit-transition: All 1s ease-in-out;
+}
+
+.proj-box:hover{
+	height: 460px;
+	width: 360px;
+	margin-left: 15px;
+	margin-top: 5px;
+	position: relative;
 }
 
 .thumbnail-container{
@@ -109,3 +78,4 @@
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 15px;
 }
+
